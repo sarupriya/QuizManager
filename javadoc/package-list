@@ -1,0 +1,6 @@
+fr.epita.quiz.datamodel
+fr.epita.quiz.exception
+fr.epita.quiz.launcher
+fr.epita.quiz.services
+fr.epita.quiz.services.data
+fr.epita.quiz.tests
