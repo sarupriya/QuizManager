@@ -1,0 +1,38 @@
+
+ Question: An expression involving byte, int, and literal numbers is promoted to which of these?
+
+ Answer Entered: int
+
+ Question: Which data type value is returned by all transcendental math functions?
+
+ Answer Entered: double
+
+ Question: Which is a reserved word in the Java programming language?
+
+ Answer Entered: native
+
+ Question: Which is a valid keyword in java?
+
+ Answer Entered: interface
+
+ Question: Which one is a valid declaration of a boolean?
+
+ Answer Entered: boolean b3 = false;
+
+ Question: What is the numerical range of char?
+
+ Answer Entered: 0 to 65535
+
+ Question: Which class or interface defines the wait(), notify(),and notifyAll() methods?
+
+ Answer Entered: Java.util
+
+ Question: Which interface provides the capability to store objects using a key-value pair?
+
+ Answer Entered: Java.util
+
+ Question: Which interface does java.util.Hashtable implement?
+
+ Answer Entered: Java.util
+
+ The score is 7
